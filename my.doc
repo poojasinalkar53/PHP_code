@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bookstore>
+<book>
+<book_pub_year> 2004</book_pub_year>
+<book_title>C Programming Absolute Beginner's Guide </book_title>
+<book_author>Greg Perry and Dean Miller</book_author>
+</book>
+<book>
+<book_pub_year> 2020</book_pub_year>
+<book_title>Joy of cooking</book_title>
+<book_author>Irma S. Rombauger</book_author>
+</book> 
+<book>
+<book_pub_year> 1965</book_pub_year>
+<book_title>Light of Yoga</book_title>
+<book_author>B.K.S.Iyengar</book_author>
+</book>
+</bookstore>
